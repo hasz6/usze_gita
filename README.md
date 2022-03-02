@@ -5,3 +5,5 @@ testowe  do usuniecia po czasie
 jeszcze jeden punkt  
 
 ?? to jak zrobić wciencie ????
+
+dodoam coś do sprawdzenia czy idzie 
