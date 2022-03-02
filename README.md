@@ -1,2 +1,5 @@
 # usze_gita
 testowe  do usuniecia po czasie
+punkt pierwszy
+  cos tam w pod punkcie
+jeszcze jeden punkt  
