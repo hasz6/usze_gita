@@ -6,4 +6,5 @@ jeszcze jeden punkt
 
 ?? to jak zrobić wciencie ????
 
-dodoam coś do sprawdzenia czy idzie 
+# dodoam coś do sprawdzenia czy idzie 
+  #drugi poziom?
